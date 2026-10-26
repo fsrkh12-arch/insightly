@@ -14,3 +14,5 @@ This repository contains a copy of the production frontend currently served by V
 - `assets/` — production JavaScript and CSS bundles served by Vercel
 
 This is the deployed client build. Private Vercel environment values, server-only code, database data, and deployment credentials are not included.
+
+The public copy deploys automatically through GitHub Pages.
