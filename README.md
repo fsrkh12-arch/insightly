@@ -6,6 +6,8 @@ This repository contains a copy of the production frontend currently served by V
 
 [Open Insightly](https://insightly.space)
 
+[Open this GitHub copy](https://fsrkh12-arch.github.io/insightly/)
+
 ## Contents
 
 - `index.html` — deployed application entry page
