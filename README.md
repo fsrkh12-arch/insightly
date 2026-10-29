@@ -1,6 +1,8 @@
 # Insightly — frontend build
 
-This repository contains a copy of the production frontend served for Insightly. It provides the deployed browser files for viewing the interface; it is not the original development source repository.
+Insightly is a data-collection tool for a research project I am running. Its goal is to help researchers sign up, publish question banks, collect responses, view useful statistics, and access and download their data so they can draw conclusions more easily.
+
+This repository contains a copy of the production frontend served for Insightly. It provides the deployed browser files for viewing the interface; it is not the original development source repository. The repository alone does not establish the security or availability of the underlying data services.
 
 ## View the project
 
